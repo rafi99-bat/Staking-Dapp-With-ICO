@@ -140,3 +140,4 @@ NEXT_PUBLIC_FORMSPREE_API =
 Contributions are welcome! Please follow our code of conduct and guidelines for contributing.
 
 ## License:
+This project is licensed under the [MIT License](https://github.com/rafi99-bat/Staking-Dapp-With-ICO/blob/main/LICENSE).
